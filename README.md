@@ -1,5 +1,3 @@
-center my title
-
 # Text Editor (tex)
 
 -   `./tex <filename>`: This is the command to open a file with the text editor. Replace `<filename>` with the actual name of the file you wish to edit.
@@ -25,3 +23,8 @@ center my title
 ### Syntax Highlighting Support:
 
 -   The editor supports syntax highlighting for programming languages such as C, C++, and Python, based on the file extension (e.g., `.c`, `.cpp`, `.py`).
+
+### Screenshots
+
+![Cpp Code](./ss/Cpp.png)
+![Python Code](./ss/Py.png)
