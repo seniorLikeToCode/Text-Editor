@@ -1,8 +1,3 @@
-// openemacs: A minimalistic emacs clone in less than 1 024 lines of code.
-//
-// openemacs is released under 2-clause BSD license and is based on kilo,
-// a very small editor written by Salvatore "antirez" Sanfilippo.
-
 #define _DEFAULT_SOURCE  // Linux: ftruncate, getline, kill, strdup
 #define _GNU_SOURCE      // Linux: strcasestr
 
